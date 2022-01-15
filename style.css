@@ -78,7 +78,7 @@ body {
 
 .card-container-picture-pic {
   position: relative;
-  background-image: url("images/image-equilibrium.jpg");
+  background-image: url("./images/image-equilibrium.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ body {
   bottom: 0;
   left: 0;
   z-index: 3;
-  background-image: url("images/icon-view.svg");
+  background-image: url("./images/icon-view.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
